@@ -65,7 +65,7 @@ The project follows a modular ETL pipeline with clear separation of concerns.
 ```
 /etl-multiformat-pipeline/
 │
-├── etl_project.ipynb          # Jupyter Notebook with complete ETL code
+├── DE_proj2.ipynb          # Jupyter Notebook with complete ETL code
 ├── logs_file.txt              # Log file capturing each ETL step
 ├── transformed_data.csv       # Output of the ETL process
 ├── README.txt                 # This documentation file
