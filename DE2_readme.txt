@@ -84,7 +84,7 @@ PHASE 4: LOGGING
 --------------------------------------------------------------------------------
 /etl-multiformat-pipeline/
 │
-├── etl_project.ipynb          # Jupyter Notebook with complete ETL code
+├── DE_proj2.ipynb          # Jupyter Notebook with complete ETL code
 ├── logs_file.txt              # Log file capturing each ETL step
 ├── transformed_data.csv       # Output of the ETL process
 ├── README.txt                 # This documentation file
@@ -93,7 +93,7 @@ PHASE 4: LOGGING
 ================================================================================
 7. HOW TO RUN
 --------------------------------------------------------------------------------
-1. Open the `etl_project.ipynb` notebook.
+1. Open the `DE_proj2.ipynb` notebook.
 2. Run all cells to execute the full ETL process.
 3. Output files (`transformed_data.csv` and `logs_file.txt`) will be generated.
 
