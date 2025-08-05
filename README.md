@@ -1,14 +1,14 @@
-================================================================================
+
       DE_A Comprehensive ETL Workflow with Python for Data Engineers
-================================================================================
+
 
 Author           : Aditya Balasubramaniam
 Project Name     : ETL Data Pipeline - Multi-Format Extraction & Transformation
 Last Updated     : August 2025
 
-================================================================================
+
 1. INTRODUCTION
---------------------------------------------------------------------------------
+
 This project demonstrates a full ETL (Extract, Transform, Load) data pipeline 
 built using Python. It automates the ingestion of multiple data formats 
 (CSV, JSON, XML), performs standardized transformations including unit 
@@ -18,7 +18,7 @@ and stores the cleaned data in a CSV file for downstream use.
 The ETL process includes logging for auditability, traceability, and debugging 
 purposes.
 
-================================================================================
+
 2. OBJECTIVES
 --------------------------------------------------------------------------------
 - Extract structured and semi-structured data from various file formats.
